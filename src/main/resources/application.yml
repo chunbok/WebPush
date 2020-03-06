@@ -1,0 +1,9 @@
+repository:
+  endpoint:
+    saveFilePath: C://webpush
+  keyInfo:
+    public: BC-tL_Z-GuHOUAXq7XFaQSkqX7v2W-trOnfepa6GcPJUbWusfM8QA_Ljy8RVbtYH7WIirOQZw7NWJl9NokJgiug
+    private: NymMWDomS7zoK6g-iYgmLhMC6XCtrH8oEweuwYI8N_M
+  pushInfo:
+    title: 서버에서 일괄로 내리는 메세지
+    text: 이메세지는 서버에 등록된 정보로 일괄적으로 내립니다.
