@@ -3,4 +3,4 @@ web push example
 
 with springboot, maven
 
-user google webpush server
+use google webpush server
