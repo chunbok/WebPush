@@ -53,7 +53,7 @@
 		<dependency>
 		    <groupId>org.bouncycastle</groupId>
 		    <artifactId>bcprov-jdk15on</artifactId>
-		    <version>1.64</version>
+		    <version>1.67</version>
 		</dependency>
 		
 		<!-- 테스트 범용성을 위해 lombok 제거 -->
